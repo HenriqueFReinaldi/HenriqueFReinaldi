@@ -9,5 +9,5 @@
 <summary>Projetos em <b>Python</b></summary>
     
 * [Command](https://github.com/HenriqueFReinaldi/command) - Uma linguagem de programação.
-* 
+  
 </details>
