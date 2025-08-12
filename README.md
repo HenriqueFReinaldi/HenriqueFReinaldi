@@ -9,6 +9,7 @@
 <summary>Projetos em <b>Python</b></summary>
     
 * [Command](https://github.com/HenriqueFReinaldi/command) - Uma linguagem de programação.
+* [Skendel](https://github.com/HenriqueFReinaldi/skendel) - Um analisador de textos.
 * [Executer](https://github.com/HenriqueFReinaldi/executer) - Um corretor de problemas de programação.
   
 </details>
