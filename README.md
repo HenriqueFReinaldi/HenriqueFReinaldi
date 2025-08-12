@@ -13,3 +13,8 @@
 * [Executer](https://github.com/HenriqueFReinaldi/executer) - Um corretor de problemas de programação.
   
 </details>
+<details>
+<summary>Projetos em <b>C++</b></summary>
+
+* [Altruism](https://github.com/HenriqueFReinaldi/altruism) - Um programa para esconder código dentro de arte ASCII.
+</details>
