@@ -21,5 +21,5 @@
 <details>
 <summary>Projetos em <b>JavaScript</b></summary>
 
-* [Altruism](https://github.com/HenriqueFReinaldi/formatador) - Uma extensão para o google chrome que permite formatar textos facilmente.
+* [Formatador](https://github.com/HenriqueFReinaldi/formatador) - Uma extensão para o google chrome que permite formatar textos facilmente.
 </details>
