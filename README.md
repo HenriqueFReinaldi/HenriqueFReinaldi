@@ -15,6 +15,12 @@
   
 </details>
 <details>
+<summary>Projetos em <b>C</b></summary>
+
+* [Salvaguarda](https://github.com/HenriqueFReinaldi/salvaguarda) - Uma ferramenta para criar registros de projetos.
+</details>
+
+<details>
 <summary>Projetos em <b>C++</b></summary>
 
 * [Altruism](https://github.com/HenriqueFReinaldi/altruism) - Um programa para esconder código dentro de arte ASCII.
