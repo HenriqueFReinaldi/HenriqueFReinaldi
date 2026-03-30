@@ -18,6 +18,7 @@
 <summary>Projetos em <b>C</b></summary>
 
 * [Salvaguarda](https://github.com/HenriqueFReinaldi/salvaguarda) - Uma ferramenta para criar registros de projetos.
+* [editor](https://github.com/HenriqueFReinaldi/editor) - Um editor de textos simples.
 </details>
 
 <details>
