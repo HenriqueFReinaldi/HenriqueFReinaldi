@@ -20,6 +20,11 @@
 * [Salvaguarda](https://github.com/HenriqueFReinaldi/salvaguarda) - Uma ferramenta para criar registros de projetos.
 * [editor](https://github.com/HenriqueFReinaldi/editor) - Um editor de textos simples.
 </details>
+<details>
+<summary>Projetos em <b>Go</b></summary>
+
+* [Listrun](https://github.com/HenriqueFReinaldi/listrun) - Uma ferramenta que criei para me auxiliar no processo de desenvolvimento.
+</details>
 
 <details>
 <summary>Projetos em <b>C++</b></summary>
