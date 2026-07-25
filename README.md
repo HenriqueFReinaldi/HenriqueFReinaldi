@@ -24,6 +24,8 @@
 <summary>Projetos em <b>Go</b></summary>
 
 * [Listrun](https://github.com/HenriqueFReinaldi/listrun) - Uma ferramenta que criei para me auxiliar no processo de desenvolvimento.
+* [NoSei](https://github.com/HenriqueFReinaldi/nosei) - Um motor de banco de dados não relacional com CRUD completo.
+  
 </details>
 
 <details>
@@ -36,3 +38,12 @@
 
 * [Formatador](https://github.com/HenriqueFReinaldi/formatador) - Uma extensão para o google chrome que permite formatar textos facilmente.
 </details>
+
+<details>
+<summary>Projetos em <b>Java</b></summary>
+
+* [encurtador](https://github.com/HenriqueFReinaldi/encurtador) - Uma ferramenta para encurtar URLs.
+</details>
+
+
+
